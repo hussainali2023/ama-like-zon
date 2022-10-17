@@ -21,3 +21,16 @@
   color: white;
   margin-left: 10px;
 }
+
+.log-out {
+  margin-left: 20px;
+  background-color: white;
+  padding: 5px 10px;
+  font-weight: 600;
+  border-radius: 5px;
+}
+.log-out:hover {
+  background-color: rgb(216, 87, 87);
+  color: white;
+  cursor: pointer;
+}
